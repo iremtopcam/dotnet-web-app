@@ -1,0 +1,12 @@
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\bin\Debug\net6.0\task1proje3.helper.deps.json
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\bin\Debug\net6.0\task1proje3.helper.dll
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\bin\Debug\net6.0\task1proje3.helper.pdb
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.csproj.AssemblyReference.cache
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.AssemblyInfoInputs.cache
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.AssemblyInfo.cs
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.csproj.CoreCompileInputs.cache
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.dll
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\refint\task1proje3.helper.dll
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\task1proje3.helper.pdb
+C:\Users\irem.topcam\source\repos\task1proje3\task1proje3.helper\obj\Debug\net6.0\ref\task1proje3.helper.dll

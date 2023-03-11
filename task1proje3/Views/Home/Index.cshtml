@@ -1,0 +1,107 @@
+﻿@model Root 
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center" > 
+ @* <img src="" />*@
+
+
+  <div style="background-color:aquamarine" >
+
+      <h1>Total confirmed  </h1>
+       @Model.Global.NewConfirmed
+</div>
+ <div style="background-color:orange" >
+        <h1>New Deaths  </h1>
+        @ViewBag.veri3
+
+    </div>
+
+    <div style="background-color:lavender">
+
+        <h1> total deaths  </h1>
+        @ViewBag.veri4
+
+         </div>
+
+         <div style="background-color:yellowgreen">
+
+        <h1>new recorded  </h1>
+        @ViewBag.veri5
+
+         </div>
+
+    <div style="background-color:pink">
+
+        <h1>total recovered  </h1>
+        @ViewBag.veri6
+
+    </div>
+
+    <div style="background-color:plum">
+
+
+         <h1> Time Date  </h1>
+        @ViewBag.veri7
+
+    </div>
+
+
+ 
+
+   
+
+ @* 
+ @foreach (var item in Model)
+    {
+       
+
+         <td>  <tr> @item.Countries.NewConfirmed </tr>
+               
+            
+
+
+        </td>*@
+
+@*@model List<Country> *@
+    <div style="background-color:orchid">
+        <table>
+    <thead>
+        <tr>
+
+            <th>ıd</th>
+            <th>slug</th>
+            <th>Country</th>
+            <th>Total Confirmed</th>
+             <th>Total Deaths</th>
+            <th>Total Recovered</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var country in ViewBag.veri8)
+        {
+            <tr>
+                <td>@country.ID</td>
+                <td>@country.Slug</td>
+                <td>@country.CountryCode</td>
+                <td>@country.TotalConfirmed</td>
+                <td>@country.TotalDeaths</td>
+                <td>@country.TotalRecovered</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+ </div>
+        
+
+
+        </div>
+        
+   
+
+

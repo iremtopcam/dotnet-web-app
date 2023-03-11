@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Ky16M8/SV6togj4EIwXwY7PVf+kYrdgw3uqwFhRuB+RgumGyjdmk9MzuDs0S71+ZMeei7KkHhlsGWrgJSInnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irem.topcam\\source\\repos\\task1proje3\\task1proje3.helper\\task1proje3.helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irem.topcam\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\irem.topcam\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
